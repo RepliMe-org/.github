@@ -43,3 +43,84 @@ Creators get:
 
 RepliMe follows a microservices-inspired architecture:
 
+
+### Repositories
+
+- `replime-frontend-angular` → User interface  
+- `replime-backend-springboot` → Core backend & authentication  
+- `replime-ai-fastapi` → AI services, embeddings & RAG pipeline
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- Angular
+- TypeScript
+- REST API integration
+
+### Backend
+- Spring Boot
+- JWT Authentication
+- Microservices-ready structure
+- PostgreSQL / MySQL
+
+### AI Service
+- FastAPI
+- LangChain (Orchestration)
+- RAG Architecture
+- Vector Database (e.g., Pinecone / FAISS)
+
+### Infrastructure
+- Docker
+- Docker Compose
+- REST-based inter-service communication
+
+---
+
+## 🔐 Influencer Verification Flow
+
+1. Influencer applies
+2. System checks subscriber threshold
+3. Verification token is generated
+4. Influencer proves ownership (e.g., token in channel description)
+5. System verifies and activates account
+6. Chatbot training becomes available
+
+---
+
+## 🌟 Vision
+
+RepliMe aims to become a SaaS platform that:
+
+- Scales creator-audience communication
+- Maintains authenticity
+- Reduces burnout
+- Provides intelligent audience insights
+
+---
+
+## 👨‍💻 Developed As
+
+Graduation Project – Faculty of Computer Science  
+Artificial Intelligence & Software Engineering Focus  
+
+---
+
+## 📌 Status
+
+🚧 Currently in active development  
+
+---
+
+## 🤝 Contributing
+
+This is an academic project under development.  
+Contributions and feedback are welcome.
+
+---
+
+## 📬 Contact
+
+For inquiries or collaboration:
+- Project Organization: https://github.com/RepliMe-org
